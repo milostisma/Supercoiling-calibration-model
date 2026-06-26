@@ -1,5 +1,6 @@
 # Supercoiling-calibration-model
-This repository contains the analytical model used in Tisma et al. to predict the SYTOX Orange concentration needed for inducing precise supercoiling density in sufrace-bound single-molecule assay
+This repository contains the analytical model used in Tisma et al. to predict the SYTOX Orange concentration needed for inducing precise supercoiling density in sufrace-bound single-molecule assay.
+This extends from the model previously developed by Kolbeck et al. Nucleic Acids Res. (2024) PMID: 38000393;
 
 ## What the model does
 
